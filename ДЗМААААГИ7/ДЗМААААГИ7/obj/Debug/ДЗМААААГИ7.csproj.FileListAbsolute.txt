@@ -1,0 +1,7 @@
+C:\Users\husey\source\repos\ДЗМААААГИ7\ДЗМААААГИ7\bin\Debug\ДЗМААААГИ7.exe.config
+C:\Users\husey\source\repos\ДЗМААААГИ7\ДЗМААААГИ7\bin\Debug\ДЗМААААГИ7.exe
+C:\Users\husey\source\repos\ДЗМААААГИ7\ДЗМААААГИ7\bin\Debug\ДЗМААААГИ7.pdb
+C:\Users\husey\source\repos\ДЗМААААГИ7\ДЗМААААГИ7\obj\Debug\ДЗМААААГИ7.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\ДЗМААААГИ7\ДЗМААААГИ7\obj\Debug\ДЗМААААГИ7.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\ДЗМААААГИ7\ДЗМААААГИ7\obj\Debug\ДЗМААААГИ7.exe
+C:\Users\husey\source\repos\ДЗМААААГИ7\ДЗМААААГИ7\obj\Debug\ДЗМААААГИ7.pdb

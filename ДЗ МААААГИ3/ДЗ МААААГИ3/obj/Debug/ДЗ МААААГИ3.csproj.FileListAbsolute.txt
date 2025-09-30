@@ -1,0 +1,7 @@
+C:\Users\husey\source\repos\ДЗ МААААГИ3\ДЗ МААААГИ3\bin\Debug\ДЗ МААААГИ3.exe.config
+C:\Users\husey\source\repos\ДЗ МААААГИ3\ДЗ МААААГИ3\bin\Debug\ДЗ МААААГИ3.exe
+C:\Users\husey\source\repos\ДЗ МААААГИ3\ДЗ МААААГИ3\bin\Debug\ДЗ МААААГИ3.pdb
+C:\Users\husey\source\repos\ДЗ МААААГИ3\ДЗ МААААГИ3\obj\Debug\ДЗ МААААГИ3.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\ДЗ МААААГИ3\ДЗ МААААГИ3\obj\Debug\ДЗ МААААГИ3.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\ДЗ МААААГИ3\ДЗ МААААГИ3\obj\Debug\ДЗ МААААГИ3.exe
+C:\Users\husey\source\repos\ДЗ МААААГИ3\ДЗ МААААГИ3\obj\Debug\ДЗ МААААГИ3.pdb
